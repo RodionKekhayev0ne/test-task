@@ -1,0 +1,38 @@
+
+
+.banner-card{
+    height: 480px;
+}
+
+.mega-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.mega-container h1{
+    align-self: self-start;
+    margin-left: 5%;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+.slider-container{
+    margin: 0 auto;
+    width: 90%;
+    box-sizing: border-box;
+}
+.slick-list {
+    overflow: hidden;
+}
+.slick-slide > div {
+    padding: 0 5px; /* Внутренние отступы внутри карточек */
+    box-sizing: border-box;
+}
+
+slick-arrow slick-next button img{
+    height: 46px;
+    width: 46px;
+}

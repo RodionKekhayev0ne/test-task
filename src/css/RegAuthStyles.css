@@ -1,0 +1,216 @@
+
+
+.regauth-container{
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner{
+    height: 655px;
+    width: 720px;
+    border-radius: 24px;
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+}
+h3{
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+}
+.form-container{
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start!important;
+    width: 480px;
+}
+.auth-form{
+    transition: 0.7s ease;
+    position: absolute;
+    opacity: 1;
+    height: 655px;
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    margin-left: 20px;
+    transform: translateY(0%);
+
+}
+.reg-form{
+    transition: 0.7s ease;
+    position: absolute;
+    opacity: 1;
+    height: 655px;
+    width: 720px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    margin-left: 20px;
+
+    transform: translateX(0%);
+}
+.auth-form-hidden{
+    transition: 0.6s ease;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    opacity: 0;
+    transform: translateY(100%);
+}
+
+.reg-form-hidden{
+    transition: 0.6s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    z-index: 1;
+    opacity: 0;
+    transform: translateX(100%);
+
+}
+
+.regauth-container input{
+    opacity: 100%;
+    width: 480px;
+    height: 51px;
+    border-radius: 8px;
+    border: 0;
+    background-color:  rgba(239, 239, 239, 1);
+    outline: none;
+    margin-top: 20px;
+    padding-left: 16px;
+    font-size: 16px;
+    transition: opacity 0.2s ease;
+}
+
+.regauth-container input:focus::placeholder{
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+.for-con{
+    width: 480px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+
+}
+.forgot{
+    background:none!important;
+    border: none!important;
+    background-color: #fff;
+    color: #000!important;
+    font-weight: 300!important;
+    width: 150px!important;
+    height: auto!important;
+    margin-top: 10px!important;
+    text-decoration: 1px underline #fff;
+    transition: 0.5s ease;
+}
+
+.forgot:hover{
+    transition: 0.5s ease;
+    text-decoration: 1px underline #000000;
+}
+.butt-container button{
+    height: 50px;
+    width: 480px;
+    background-color: rgba(56, 101, 248, 1);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    margin-top: 80px;
+    transition: 0.6s ease;
+}
+
+.butt-container button:hover{
+    border-color: #3865F8;
+    transition: 0.6s ease;
+    background-color: #fff;
+    color:  rgba(56, 101, 248, 1);
+
+}
+
+.reg{
+    width: 480px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.reg button{
+    margin-top: 4px;
+    transition: 0.7s ease;
+    background: none;
+    border: none;
+    color: #3865F8;
+    text-decoration: 1px underline #fff;
+}
+.reg button:hover{
+    transition: 0.7s ease;
+    text-decoration: 1px underline #3865F8;
+}
+
+.data{
+    display: flex;
+    width: 480px;
+    flex-direction: row;
+    font-size: 14px;
+    justify-content: start;
+    align-items: center;
+    height: 30px;
+
+}
+
+.data input{
+    appearance: none;
+    margin-bottom: 16px;
+    height: 20px;
+    width: 20px;
+    border: none;
+    border-radius: 2px;
+    background-color: #EFEFEF;
+    transition: 0.6s ease;
+
+}
+.data input:checked{
+    background-color: #3865F8;
+    content: '✓';
+    transition: 0.6s ease;
+}
+
+
+.data input:target{
+    color: #3865F8;
+}
+
+.data button{
+    width: 155px;
+    height: 14px;
+    background: none;
+    border: none;
+    color: #3865F8;
+}
+
+.data button:hover{
+    transition: 0.7s ease;
+    text-decoration: 1px underline #3865F8;
+}

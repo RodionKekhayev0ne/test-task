@@ -1,0 +1,143 @@
+
+.profile{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.profile h1{
+    font-size: 62px;
+    font-weight: 600;
+    margin-left: 30px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.prof-bar{
+    display: flex;
+    width: 100%;
+    align-items: start;
+    justify-content: start;
+}
+
+
+.prof-bar button{
+    margin-left: 30px;
+    font-size: 26px;
+    color: #303030;
+    border: none;
+    background-color: #fff;
+    font-weight: 700;
+}
+
+.edit{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.edit-container p{
+    user-select: none;
+    opacity: 0;
+    transition: 0.6s ;
+    margin-bottom: 5px;
+}
+
+.edit-container p.active{
+    color: #303030;
+    user-select: none;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.4;
+    transition: 0.6s ;
+}
+
+.edit-container input {
+    font-size: 20px;
+    padding-left: 20px;
+    background-color: #EFEFEF;
+    height: 50px;
+    width: 480px;
+    border-radius: 8px;
+    border: none;
+}
+.edit-container{
+    width: 60%;
+    display: grid;
+    align-items: center;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(2, 1fr); /* Два столбца одинаковой ширины */
+    gap: 10px; /* Зазор между элементами */
+}
+
+.edit-container button{
+    margin-top: 50px;
+    height: 50px;
+    width: 480px;
+    background-color: #3865F8;
+    color: #EFEFEF;
+    border: 1px solid #EFEFEF;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: 0.7s ease;
+    justify-self: start;
+}
+
+
+.edit-container:last-child { /* Если элемент последний, он занимает 100% ширины */
+    justify-self: center/* Центрируем содержимое */
+}
+
+.edit-container button:hover{
+    transition: 0.7s ease;
+    background-color: #EFEFEF;
+    color: #3865F8;
+    border: 1px solid #3865F8;
+    border-radius: 8px;
+}
+.order{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.order-container{
+    margin-top: 100px;
+    width: 60%;
+    display: grid;
+    align-items: center;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(2, 1fr); /* Два столбца одинаковой ширины */
+    gap: 10px; /* Зазор между элементами */
+}
+
+.fav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fav-container{
+    width: 70%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Одна колонка */
+    grid-template-rows: auto ; /* Два ряда, высота которых определяется содержимым */
+    gap: 5px;
+
+}
+
+.fav-container .banner-card{
+    margin-left: 0;
+}
+
+
+.exit{
+    color: #DF3939!important;
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed600ef3-9b9f-407c-a19f-f0a399ce4e2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/css/Bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/FullCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/RegAuthStyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/homeslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/FullCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Galery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/HomeSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Mainpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/RegAuthPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/SlideCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lEvbHR3HU2KbSmPDlPhk0nVtzW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\L0veL1v3\Desktop\test-task\src\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed600ef3-9b9f-407c-a19f-f0a399ce4e2b" name="Changes" comment="" />
+      <created>1724758121158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724758121158</updated>
+      <workItem from="1724758122441" duration="28039000" />
+      <workItem from="1724825156728" duration="360000" />
+      <workItem from="1724830514094" duration="22945000" />
+      <workItem from="1724910811168" duration="14385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
