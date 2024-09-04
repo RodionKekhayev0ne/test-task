@@ -1,4 +1,20 @@
 
-qjavascript:S1128"(Remove this unused import of 'useState'.(×¢Ñ8øÀœè™2J$d48006b9-3c4e-43e4-aa6e-9a79080c9f97
-›javascript:S6847"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(ßìñ–8ï×è™2J$7d669485-8da1-460d-b049-d8c74a7f83ab
-¨javascript:S1082"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(ßìñ–8øÀœè™2J$2b3099a0-e058-4ea1-b0b9-9bac29d929a6
+ojavascript:S1128"&Remove this unused import of 'basket'.(å¦¹Â8ñ®åœ›2J$3abea76a-dbdb-4b98-9412-f96bd2b9963a
+˜javascript:S3863"O'C:\Users\L0veL1v3\Desktop\test-task\src\js\Basket.js' imported multiple times.(å¦¹Â8ö®åœ›2J$dbf727db-adc2-4e27-b627-f714688ddc6c
+tjavascript:S1128"&Remove this unused import of 'Basket'.(¹†¥ûÿÿÿÿ8ö®åœ›2J$75d2baa0-1de0-41ba-a213-29283b36ded5
+javascript:S3863"O'C:\Users\L0veL1v3\Desktop\test-task\src\js\Basket.js' imported multiple times.(¹†¥ûÿÿÿÿ8ö®åœ›2J$98594981-03b5-42fb-aead-95d1c709cdd0
+ojavascript:S1128"&Remove this unused import of 'logDOM'.(ØÖÉ8ö®åœ›2J$b930b6a1-c1b8-4c43-9b16-1f1c9e8dd842
+ojavascript:S1128"&Remove this unused import of 'render'.(ØÖÉ8ö®åœ›2J$a6a18a74-896e-4281-ad35-6791605473e9
+ˆjavascript:S6754":useState call is not destructured into value + setter pair(ñ ˆ—ûÿÿÿÿ8÷®åœ›2J$6bdc51e7-649d-4520-bc34-8def77db66e9
+xjavascript:S64779"*Missing "key" prop for element in iterator(š­£ìüÿÿÿÿ8÷®åœ›2J$39f3b6fc-4bbb-48ea-ad58-fb6219412c6e
+²javascript:S6844Y"dAnchor used as a button. Anchors are primarily expected to navigate. Use the button element instead.(ÎÿêÍÿÿÿÿÿ8÷®åœ›2J$708a9068-eb51-464e-8c2d-e598f4b8d306
+‘javascript:S6848Y"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(ÎÿêÍÿÿÿÿÿ8÷®åœ›2J$46518b61-dbe7-42b9-af01-2a56a4550792
+­javascript:S1082Y"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(ÎÿêÍÿÿÿÿÿ8÷®åœ›2J$abed4d24-61f0-4ca4-857e-6261d581ce36
+­javascript:S6844Z"dAnchor used as a button. Anchors are primarily expected to navigate. Use the button element instead.(ÚğŒ»8÷®åœ›2J$9bf82c51-32f4-4702-ac70-b97761c4085e
+Œjavascript:S6848Z"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(ÚğŒ»8÷®åœ›2J$29588d41-14c6-4b03-b7b4-398d4e1c0f36
+¨javascript:S1082Z"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(ÚğŒ»8÷®åœ›2J$4b0a54d1-1609-442f-8b89-c9599b5c241f
+²javascript:S6844["dAnchor used as a button. Anchors are primarily expected to navigate. Use the button element instead.(Ò²öÇşÿÿÿÿ8÷®åœ›2J$661231f0-ddd6-4529-a547-862d14be26b8
+‘javascript:S6848["ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(Ò²öÇşÿÿÿÿ8ú®åœ›2J$b9c433f8-587c-4a94-9b4d-8549490a882e
+­javascript:S1082["_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(Ò²öÇşÿÿÿÿ8ú®åœ›2J$bc5249de-a017-4ed5-b8bb-f84b67de0f85
+›javascript:S6847^"RNon-interactive elements should not be assigned mouse or keyboard event listeners.(‰ìº8ú®åœ›2J$bbbfba99-8b56-4c29-bbde-cf438e649b6f
+¨javascript:S1082^"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(‰ìº8ú®åœ›2J$c54b3093-3b6f-457c-91f3-accdfc8cdbf8

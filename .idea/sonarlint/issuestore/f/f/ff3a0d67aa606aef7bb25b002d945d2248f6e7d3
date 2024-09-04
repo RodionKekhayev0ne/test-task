@@ -1,0 +1,19 @@
+
+wjavascript:S1128")Remove this unused import of 'useEffect'.(÷Ñ†œÿÿÿÿÿ8‹¨¸â›2J$c07e6877-617a-4db5-9eb4-543f1ae64136
+qjavascript:S1128"(Remove this unused import of 'AdminBar'.(ãÁôö8Œ¨¸â›2J$21b11f1b-82a7-4d90-92e3-b76888452759
+vjavascript:S1128"(Remove this unused import of 'Category'.(÷ó³êüÿÿÿÿ8Œ¨¸â›2J$c3c0a557-cddb-4628-9ec8-444802c337df
+qjavascript:S6774"#'id' is missing in props validation(„”¿Šüÿÿÿÿ8Œ¨¸â›2J$20c6eced-9ca4-4438-89bb-2141a8ace513
+‡javascript:S1481">Remove the declaration of the unused 'imagePreviews' variable.(¬°è§8Œ¨¸â›2J$21cb2264-d466-4a24-9c49-4eaa8807936c
+„javascript:S1854";Remove this useless assignment to variable "imagePreviews".(¬°è§8Œ¨¸â›2J$0310d2c4-65dd-495d-b82e-6678dc4adb6d
+Šjavascript:S1481"ARemove the declaration of the unused 'setImagePreviews' variable.(¬°è§8Œ¨¸â›2J$51dc2f56-c47e-450a-bc5f-99e9a309139b
+‡javascript:S1854">Remove this useless assignment to variable "setImagePreviews".(¬°è§8Œ¨¸â›2J$2df4b069-3e6c-4cba-8823-c686fa7cf4c0
+‰javascript:S1481";Remove the declaration of the unused 'curentSale' variable.(—­êãÿÿÿÿÿ8Œ¨¸â›2J$2941a61a-7a92-4cb7-8687-8847021c47f6
+†javascript:S1854"8Remove this useless assignment to variable "curentSale".(—­êãÿÿÿÿÿ8Œ¨¸â›2J$bf83dcf7-fa45-4da3-a946-0e25021bc9df
+Œjavascript:S1481">Remove the declaration of the unused 'setCurentSale' variable.(—­êãÿÿÿÿÿ8Œ¨¸â›2J$7308fcb8-c77b-47e7-9af1-18c98e344474
+‰javascript:S1854";Remove this useless assignment to variable "setCurentSale".(—­êãÿÿÿÿÿ8Œ¨¸â›2J$c2d5e349-84cc-49bb-8f17-fc98b893b813
+ƒjavascript:S1481	":Remove the declaration of the unused 'activeCat' variable.(×á™8Œ¨¸â›2J$3ba2418c-79f8-4b59-a304-f19c542e0b3b
+€javascript:S1854	"7Remove this useless assignment to variable "activeCat".(×á™8Œ¨¸â›2J$9f8dfb5b-7299-4ec6-8c21-ebb7ace3c703
+†javascript:S1481	"=Remove the declaration of the unused 'setActiveCat' variable.(×á™8Œ¨¸â›2J$99027946-9a14-41da-9bc1-ef878ca5c182
+ƒjavascript:S1854	":Remove this useless assignment to variable "setActiveCat".(×á™8Œ¨¸â›2J$08e5dbe7-61be-4de1-8a3d-68ff9ee58eb3
+‘javascript:S6848"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(‡õ‘øÿÿÿÿ8Œ¨¸â›2J$e89277a4-1341-4a8b-9cb2-5134608e77f1
+­javascript:S1082"_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(‡õ‘øÿÿÿÿ8Œ¨¸â›2J$c6c158ef-af52-4c7e-9d04-1b92d93bfbff

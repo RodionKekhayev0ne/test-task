@@ -1,0 +1,17 @@
+
+wjavascript:S1128")Remove this unused import of 'useEffect'.(÷Ñ†œÿÿÿÿÿ8­ûğì›2J$a408c3e8-ff8d-4603-a0bc-3310f618c519
+‡javascript:S1481">Remove the declaration of the unused 'imagePreviews' variable.(¬°è§8­ûğì›2J$1cf6aa21-b8e7-4a71-9cbb-6a5ad003a24b
+„javascript:S1854";Remove this useless assignment to variable "imagePreviews".(¬°è§8­ûğì›2J$7395e479-3a92-4ff6-8901-56714ff859d2
+‰javascript:S1481";Remove the declaration of the unused 'curentSale' variable.(—­êãÿÿÿÿÿ8­ûğì›2J$ae5e2933-c0c8-49c8-ad07-517d851043a2
+†javascript:S1854"8Remove this useless assignment to variable "curentSale".(—­êãÿÿÿÿÿ8­ûğì›2J$1e53ff89-24c5-4a0a-a56d-408b3ddf71c5
+Œjavascript:S1481">Remove the declaration of the unused 'setCurentSale' variable.(—­êãÿÿÿÿÿ8­ûğì›2J$0cbe618e-6ca7-490a-9822-5adc1d34631a
+‰javascript:S1854";Remove this useless assignment to variable "setCurentSale".(—­êãÿÿÿÿÿ8­ûğì›2J$a470cfe2-6914-44b6-9542-3dfa6a69342b
+Šjavascript:S1481
+"ARemove the declaration of the unused 'handleFileChange' variable.(ë„îÎ8­ûğì›2J$ce69bddd-a0fc-4daf-a341-b28d4e6b6919
+‡javascript:S1854
+">Remove this useless assignment to variable "handleFileChange".(ë„îÎ8­ûğì›2J$5a35115b-0783-4931-ba19-ea28ac22f72c
+„javascript:S1481";Remove the declaration of the unused 'activeButt' variable.(Šù¤8­ûğì›2J$71426cea-d23a-486a-8b3b-58fc0a6295b0
+javascript:S1854"8Remove this useless assignment to variable "activeButt".(Šù¤8­ûğì›2J$0c4cc0ec-182d-4d20-8ed1-f0d0879b9968
+Šjavascript:S1481"<Remove the declaration of the unused 'nactiveButt' variable.(·°¯úÿÿÿÿ8­ûğì›2J$1a22267d-235e-4159-afbc-0f6299e77d12
+‡javascript:S1854"9Remove this useless assignment to variable "nactiveButt".(·°¯úÿÿÿÿ8­ûğì›2J$76a60d63-896b-441c-b898-9472eb24d8c9
+gjavascript:S64793"Do not use Array index in keys(¶ÌÚ¶8­ûğì›2J$8b94b541-4027-4950-8b2a-a661cc30435f

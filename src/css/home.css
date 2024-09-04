@@ -3,7 +3,7 @@
 .home-banner{
     height: 700px;
     width: 100%;
-    background-image: url("../js/imgages/main-banner-bg.png");
+    background-image: url("../imgages/main-banner-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     display: flex;

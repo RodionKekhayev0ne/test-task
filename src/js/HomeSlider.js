@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import CardForSlider from './SlideCard';
-import bannerImg from './imgages/banner-img.png';
+import bannerImg from '../imgages/banner-img.png';
 import * as PropTypes from "prop-types";
 import {unstable_renderSubtreeIntoContainer} from "react-dom";
 
@@ -18,7 +18,7 @@ const HomeSlider = ({title}) =>{
     };
     const settings = {
         dots: false, // Отображение индикаторов
-        nextArrow: <button className="slick-next"><img src={require("./imgages/next.png")} alt="next" style={buttStyle}/>
+        nextArrow: <button className="slick-next"><img src={require("../imgages/next.png")} alt="next" style={buttStyle}/>
         </button>,
         infinite: true, // Бесконечный слайдер
         speed: 500, // Скорость анимации

@@ -5,8 +5,8 @@ import "slick-carousel/slick/slick-theme.css";
 import Footer from "./Footer";
 import Bar from "./Bar";
 import HomeSlider from "./HomeSlider";
-import sImg from './imgages/fullcard.png';
-import vImg from  './imgages/vslider.png';
+import sImg from '../imgages/fullcard.png';
+import vImg from  '../imgages/vslider.png';
 import Slider from "react-slick";
 export default function FullCard(){
     const buttStyle = {
@@ -41,8 +41,8 @@ export default function FullCard(){
         slidesToScroll: 1,
         centerMode: true, // Активируем центрирование
         centerPadding: '0',
-        prevArrow: <button className="slick-prev"><img src={require("./imgages/next.png")} style={buttStyleHP} alt="next"/></button>,
-        nextArrow: <button className="slick-next"><img src={require("./imgages/next.png")} style={buttStyle} alt="next"/></button>,
+        prevArrow: <button className="slick-prev"><img src={require("../imgages/next.png")} style={buttStyleHP} alt="next"/></button>,
+        nextArrow: <button className="slick-next"><img src={require("../imgages/next.png")} style={buttStyle} alt="next"/></button>,
     };
 
     const settingsVert = {
@@ -54,8 +54,8 @@ export default function FullCard(){
         horizontally: false,
         vertical: true, // Активируем вертикальный режим
         verticalSwiping: true, // Активируем вертикальное пролистывание
-        prevArrow: <button className="slick-next"><img src={require("./imgages/next.png")} style={buttStyleP} alt="next"/></button>,
-        nextArrow: <button className="slick-prev"><img src={require("./imgages/next.png")} style={buttStyleN} alt="next"/></button>,
+        prevArrow: <button className="slick-next"><img src={require("../imgages/next.png")} style={buttStyleP} alt="next"/></button>,
+        nextArrow: <button className="slick-prev"><img src={require("../imgages/next.png")} style={buttStyleN} alt="next"/></button>,
     };
     const images = [
         sImg,
@@ -106,7 +106,7 @@ export default function FullCard(){
                     <button className={'buy'}>Купить</button>
                     <div className="butt-ln">
                         <button className={'baskt'}>В Корзину</button>
-                        <button className={'heart'}><img src={require('./imgages/hert.png')} alt=""/></button>
+                        <button className={'heart'}><img src={require('../imgages/hert.png')} alt=""/></button>
                     </div>
                     <div className="about">
                         <h2>Описание</h2>

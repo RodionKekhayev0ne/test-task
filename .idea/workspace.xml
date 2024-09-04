@@ -5,28 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed600ef3-9b9f-407c-a19f-f0a399ce4e2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/Bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/FullCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/RegAuthStyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/homeslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/FullCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Galery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/HomeSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Mainpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/RegAuthPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/SlideCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/AdminBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/AdminCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/AdminCategoryCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/AdminItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/AdminItemsManage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/BasketCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/CategoryBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/ChangeAdminData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Faq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/FaqQuery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/031ea9091070681cae0476adfab7d60b38eeaed8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/031ea9091070681cae0476adfab7d60b38eeaed8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10f2b6cbc863b55c329f47eda4f1e5aa69be70b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10f2b6cbc863b55c329f47eda4f1e5aa69be70b9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e43fa63aecd2127be034b3fb9d4caa172275714" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e43fa63aecd2127be034b3fb9d4caa172275714" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a82f196ac628d88983a31a6fed3595f169e1cd0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a82f196ac628d88983a31a6fed3595f169e1cd0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4229333590d0e10ed765d70f43e378dcac8fba79" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4229333590d0e10ed765d70f43e378dcac8fba79" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1f17a9b732cb5144d7ce77141d2435dbc57de68" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1f17a9b732cb5144d7ce77141d2435dbc57de68" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8d11aaf20246c7eab815deb87eb715b25d8471a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8d11aaf20246c7eab815deb87eb715b25d8471a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea9d0d9f5aab9eae9a020855c23ec6628cff8ccb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea9d0d9f5aab9eae9a020855c23ec6628cff8ccb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eced9f8fb929535bd5ec52bedb0db047fb279b09" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/eced9f8fb929535bd5ec52bedb0db047fb279b09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Bar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/RegAuthStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/RegAuthStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/FullCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/FullCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/HomeSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/HomeSlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Mainpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Mainpage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/RegAuthPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/RegAuthPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/Group 172.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/Group 172.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/banner-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/banner-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/basket.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/basket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/fullcard.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/fullcard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/hert.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/hert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/home9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/home9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/like.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/like.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/logo-foot.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/logo-foot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/main-banner-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/main-banner-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/next.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/regauthbanner.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/regauthbanner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/searchplaceholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/searchplaceholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/imgages/vslider.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/imgages/vslider.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +85,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -66,12 +115,14 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\L0veL1v3\Desktop\test-task\src" />
       <recent name="C:\Users\L0veL1v3\Desktop\test-task\src\js" />
     </key>
   </component>
@@ -86,7 +137,14 @@
       <workItem from="1724758122441" duration="28039000" />
       <workItem from="1724825156728" duration="360000" />
       <workItem from="1724830514094" duration="22945000" />
-      <workItem from="1724910811168" duration="14385000" />
+      <workItem from="1724910811168" duration="15049000" />
+      <workItem from="1725192853528" duration="13633000" />
+      <workItem from="1725206583088" duration="4694000" />
+      <workItem from="1725268650365" duration="6656000" />
+      <workItem from="1725289720920" duration="9603000" />
+      <workItem from="1725346502735" duration="15348000" />
+      <workItem from="1725373132569" duration="8957000" />
+      <workItem from="1725437843975" duration="9609000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,6 @@
 .banner-card{
     width: 312px;
     align-self: flex-start;
-    margin-left: 250px;
     background-color: #ffffff;
 
     display: flex;
@@ -27,11 +26,11 @@
 }
 
 .price{
-    padding-top: 10px;
+    padding-top: 20px;
     display: flex;
     flex-direction: row;
     align-items: end;
-    height: 24px;
+    height: 40px;
 
 }
 

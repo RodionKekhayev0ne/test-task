@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import '../css/RegAuthStyles.css';
 import Bar from "./Bar";
 import { Link, useNavigate } from 'react-router-dom';
+import Footer from "./Footer";
 
 const RegAuthPage = () => {
 
@@ -23,10 +24,10 @@ const RegAuthPage = () => {
         <div>
             <Bar/>
             <div className={'regauth-container'}>
-                <div className="banner"><img src={require("./imgages/regauthbanner.png")} alt="banner"/></div>
+                <div className="banner"><img src={require("../imgages/regauthbanner.png")} alt="banner"/></div>
                 <div className="form-container">
                     <div className={auth ? "auth-form" : "auth-form-hidden"}>
-                        <h1>Вход в аккаунт</h1>
+                        <h1 className="text-black font-bold text-3xl">Вход в аккаунт</h1>
                         <h3>Введите, пожалуйста, ваш адрес электронной</h3>
                         <h3>почты и пароль</h3>
                         <input type="text" placeholder={"Почта"}/>
@@ -38,11 +39,11 @@ const RegAuthPage = () => {
                             <button onClick={event => Entry()}>Войти</button>
                         </div>
                         <div className={'reg'}><p>Нет аккаунта?</p>
-                            <button onClick={event => changeForm(false)}>Зарегистрируйтесь</button>
+                            <button className="my-1"  onClick={event => changeForm(false)}>Зарегистрируйтесь</button>
                         </div>
                     </div>
                     <div className={!auth ? "reg-form" : "reg-form-hidden"}>
-                        <h1>Зарегистрироваться</h1>
+                        <h1 className="text-black font-bold text-3xl">Зарегистрироваться</h1>
                         <h3>Введите свои данные для создания учетной записи</h3>
                         <input type="text" placeholder={"Имя"}/>
                         <input type="text" placeholder={"Фамилия"}/>
@@ -52,19 +53,21 @@ const RegAuthPage = () => {
                             <button className={"forgot"} onClick={event => forgotpass()}>Забыли пароль?</button>
                         </div>
                         <div className="butt-container">
-                            <button onClick={event => Entry()}>Зарегистрироваться</button>
+                            <button className="" onClick={event => Entry()}>Зарегистрироваться</button>
                         </div>
                         <div className="data">
-                            <input type="checkbox"/>
-                            <p>Я даю согласие на обработку моих</p>
-                            <button>Персональных данных</button>
+                            <input className="" type="checkbox"/>
+                            <p className="text-black py-0 my-0" >Я даю согласие на обработку моих</p>
+                            <button className="text-black py-0 my-0">Персональных данных</button>
+
                         </div>
                         <div className={'reg'}><p>У вас уже есть аккаунт?</p>
-                            <button onClick={event => changeForm(true)}>Войти</button>
+                            <button className="my-1" onClick={event => changeForm(true)}>Войти</button>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     );
 }
